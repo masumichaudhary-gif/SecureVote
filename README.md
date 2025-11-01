@@ -1,1 +1,1 @@
-# SecureVote
+mkdir SecureVote && cd SecureVote
